@@ -1,1 +1,0 @@
-print(emi roo)
